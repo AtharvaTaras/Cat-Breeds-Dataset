@@ -1,6 +1,8 @@
 # Cat Breeds Dataset
 A dataset of cat images sorted by breed.
 
+![Preview](https://github.com/AtharvaTaras/Cat-Breeds-Dataset/blob/main/cat_grid.png?raw=true)
+
 This dataset was built by scraping publicly available images from the web. If you find that any images violates copyright/data privacy, kindly request removal by [raising a GitHub issue here.](https://github.com/AtharvaTaras/Cat-Breeds-Dataset/issues)
 
 Uncompressed size ~ 303 MB
@@ -35,3 +37,4 @@ You are free to use, modify, and redistribute with attribution.
 
 Citation:
 Atharva Taras, 2026. Cat Breeds Dataset.
+
